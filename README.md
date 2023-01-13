@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/bazilucmarian?tab=repositories](https://github.com/bazilucmarian?tab=repositories)
 
-- 💬 Ask me about **Javascript, React**
+- 💬 Ask me about **Javascript, React, React-Native**
 
 - 📫 How to reach me **bazilucmarian98@yahoo.com**
 
