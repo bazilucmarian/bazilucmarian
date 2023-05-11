@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marian</h1>
 <h3 align="center">A passionate frontend developer from Iasi, Romania</h3>
 
-- 🔭 I’m currently working on [Gamify](https://github.com/bazilucmarian/gamify)
+- 🔭 I’m currently working on building a social media app 📱
 
-- 🌱 I’m currently learning **React-Query, Next.js**
+- 🌱 I’m currently learning **React-Query, Next.js(13+)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bazilucmarian?tab=repositories](https://github.com/bazilucmarian?tab=repositories)
+- 👨‍💻 Some of my projects are available at [https://github.com/bazilucmarian?tab=repositories](https://github.com/bazilucmarian?tab=repositories)
 
 - 💬 Ask me about **Javascript, React, React-Native**
 
